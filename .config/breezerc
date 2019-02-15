@@ -1,0 +1,6 @@
+[Common]
+ShadowStrength=89
+
+[Windeco]
+AnimationsDuration=100
+DrawTitleBarSeparator=false
