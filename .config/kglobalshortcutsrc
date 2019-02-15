@@ -19,7 +19,12 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
+{67650ad4-e771-421d-ac89-673a860fb62b}=Meta+Shift+Print,none,Take Rectangular Region Screenshot
+{719cfd57-0127-42d7-9796-388219652b49}=Print,none,Start Screenshot Tool
+{9599b734-8fc7-4506-a72d-40bb0625f0f2}=Shift+Print,none,Take Full Screen Screenshot
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 {da90a76d-72e1-4a3d-a392-b61b72e927a9}=Meta+Return,none,Alacritty
+{deecd862-5985-4082-9a44-af9b368fc829}=Meta+Print,none,Take Active Window Screenshot
 
 [kmix]
 _k_friendly_name=Audio Volume
@@ -32,12 +37,12 @@ mute=Volume Mute,Volume Mute,Mute
 
 [krunner]
 _k_friendly_name=Run Command
-run command=\tAlt+F2\tSearch,Alt+Space,Run Command
+run command=Alt+Space\tAlt+F2\tSearch,Alt+Space,Run Command
 run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipboard contents
 
 [ksmserver]
 Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Halt Without Confirmation
-Lock Session=Meta+L,Ctrl+Alt+L\tScreensaver,Lock Session
+Lock Session=Ctrl+Alt+L\tScreensaver,Ctrl+Alt+L\tScreensaver,Lock Session
 Log Out=Ctrl+Alt+Del,none,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
@@ -125,7 +130,7 @@ Window Fullscreen=none,none,Make Window Fullscreen
 Window Grow Horizontal=none,none,Pack Grow Window Horizontally
 Window Grow Vertical=none,none,Pack Grow Window Vertically
 Window Lower=none,none,Lower Window
-Window Maximize=Meta+Shift+Up,Meta+PgUp,Maximize Window
+Window Maximize=Meta+PgUp,Meta+PgUp,Maximize Window
 Window Maximize Horizontal=none,none,Maximize Window Horizontally
 Window Maximize Vertical=none,none,Maximize Window Vertically
 Window Minimize=Meta+PgDown,Meta+PgDown,Minimize Window
@@ -136,7 +141,7 @@ Window One Desktop Down=none,none,Window One Desktop Down
 Window One Desktop Up=none,none,Window One Desktop Up
 Window One Desktop to the Left=none,none,Window One Desktop to the Left
 Window One Desktop to the Right=none,none,Window One Desktop to the Right
-Window Operations Menu=Alt+Space,Alt+F3,Window Operations Menu
+Window Operations Menu=Alt+F3,Alt+F3,Window Operations Menu
 Window Pack Down=none,none,Pack Window Down
 Window Pack Left=none,none,Pack Window to the Left
 Window Pack Right=none,none,Pack Window to the Right
@@ -175,9 +180,9 @@ Window to Desktop 7=none,none,Window to Desktop 7
 Window to Desktop 8=none,none,Window to Desktop 8
 Window to Desktop 9=none,none,Window to Desktop 9
 Window to Next Desktop=none,none,Window to Next Desktop
-Window to Next Screen=Meta+Shift+Right,none,Window to Next Screen
+Window to Next Screen=none,none,Window to Next Screen
 Window to Previous Desktop=none,none,Window to Previous Desktop
-Window to Previous Screen=Meta+Shift+Left,none,Window to Previous Screen
+Window to Previous Screen=none,none,Window to Previous Screen
 Window to Screen 0=none,none,Window to Screen 0
 Window to Screen 1=none,none,Window to Screen 1
 Window to Screen 2=none,none,Window to Screen 2
