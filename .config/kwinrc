@@ -41,6 +41,7 @@ CommandWindowWheel=Scroll
 
 [Plugins]
 highlightwindowEnabled=true
+kwin4_effect_maximizeEnabled=false
 minimizeanimationEnabled=false
 windowgeometryEnabled=false
 
