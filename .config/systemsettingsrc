@@ -1,0 +1,26 @@
+[Basic Settings]
+Indexing-Enabled=false
+
+[DownloadDialog Settings]
+Height 1440=510
+Width 2560=700
+Window-Maximized 1440x2560=true
+
+[General]
+first run=true
+folders[$e]=$HOME/
+
+[KFileDialog Settings]
+Recent Files[$e]=Headshot.jpg,file:$HOME/Pictures/Headshot.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+
+[MainWindow]
+Height 1440=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACgAAAAWDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 2560=1024
+Window-Maximized 1440x2560=true
+
+[PlasmaRunnerManager]
+LaunchCounts=

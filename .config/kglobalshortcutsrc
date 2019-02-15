@@ -18,7 +18,7 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=KDE Daemon
+_k_friendly_name=System Settings
 {3637ba87-130b-4ffd-9a0c-1bff96ac520c}=Shift+Print,none,Take Full Screen Screenshot
 {7c706660-8b28-478a-b9bb-79d5cd9e55d0}=Meta+Print,none,Take Active Window Screenshot
 {9940c148-a214-4c63-916e-1519c04aa058}=Print,none,Start Screenshot Tool
@@ -36,16 +36,16 @@ mute=Volume Mute,Volume Mute,Mute
 
 [krunner]
 _k_friendly_name=Run Command
-run command=Alt+Space\tAlt+F2\tSearch,Alt+Space,Run Command
+run command=\tAlt+F2\tSearch,Alt+Space,Run Command
 run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipboard contents
 
 [ksmserver]
 Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Halt Without Confirmation
-Lock Session=Ctrl+Alt+L\tScreensaver,Ctrl+Alt+L\tScreensaver,Lock Session
+Lock Session=Meta+L,Ctrl+Alt+L\tScreensaver,Lock Session
 Log Out=Ctrl+Alt+Del,none,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
-_k_friendly_name=ksmserver
+_k_friendly_name=System Settings
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
@@ -140,7 +140,7 @@ Window One Desktop Down=none,none,Window One Desktop Down
 Window One Desktop Up=none,none,Window One Desktop Up
 Window One Desktop to the Left=none,none,Window One Desktop to the Left
 Window One Desktop to the Right=none,none,Window One Desktop to the Right
-Window Operations Menu=Alt+F3,Alt+F3,Window Operations Menu
+Window Operations Menu=Alt+Space,Alt+F3,Window Operations Menu
 Window Pack Down=none,none,Pack Window Down
 Window Pack Left=none,none,Pack Window to the Left
 Window Pack Right=none,none,Pack Window to the Right
@@ -207,7 +207,7 @@ Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Key
 _k_friendly_name=Power Management
 
 [plasmashell]
-_k_friendly_name=Plasma
+_k_friendly_name=Activity switching
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
 activate task manager entry 10=Meta+0,Meta+0,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2
