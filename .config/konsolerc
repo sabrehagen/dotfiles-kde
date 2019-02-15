@@ -5,9 +5,10 @@ DefaultProfile=
 Favorites=
 
 [MainWindow]
-Height 1440=1440
+Height 1440=720
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQUAAAABAAAAAQAAAAIAAAACPwAAAAA
+State=AAAA/wAAAAD9AAAAAAAACgAAAAWgAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
 Width 2560=2560
 Window-Maximized 1080x1920=true
+Window-Maximized 1440x2560=true
