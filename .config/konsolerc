@@ -5,11 +5,11 @@ DefaultProfile=
 Favorites=
 
 [MainWindow]
-Height 1080=540
+Height 1080=720
 Height 1440=720
-State=AAAA/wAAAAD9AAAAAAAACgAAAAWCAAAABAAAAAQAAAAIAAAACPwAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQaAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1920
+Width 1920=1280
 Width 2560=2560
 Window-Maximized 1080x1920=true
 Window-Maximized 1440x2560=true
