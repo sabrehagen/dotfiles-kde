@@ -13,3 +13,6 @@ Width 1920=1280
 Width 2560=2560
 Window-Maximized 1080x1920=true
 Window-Maximized 1440x2560=true
+
+[Notification Messages]
+CloseAllTabs=true
