@@ -1,0 +1,31 @@
+[General]
+history=battery,power,fire,glob,suspend,settings,ke,kons,theme
+
+[Plugins]
+CharacterRunnerEnabled=false
+DictionaryEnabled=false
+Kill RunnerEnabled=false
+PIM Contacts Search RunnerEnabled=false
+PowerDevilEnabled=true
+Spell CheckerEnabled=false
+baloosearchEnabled=false
+bookmarksEnabled=false
+browsertabsEnabled=false
+calculatorEnabled=false
+desktopsessionsEnabled=false
+katesessionsEnabled=false
+konsoleprofilesEnabled=false
+krunner_appstreamEnabled=false
+kwinEnabled=false
+locationsEnabled=false
+org.kde.activitiesEnabled=true
+org.kde.datetimeEnabled=false
+org.kde.windowedwidgetsEnabled=false
+placesEnabled=false
+plasma-desktopEnabled=false
+recentdocumentsEnabled=false
+servicesEnabled=false
+shellEnabled=true
+unitconverterEnabled=false
+webshortcutsEnabled=false
+windowsEnabled=true
