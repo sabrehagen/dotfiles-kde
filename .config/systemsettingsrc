@@ -14,6 +14,10 @@ folders[$e]=$HOME/
 Recent Files[$e]=Headshot.jpg,file:$HOME/Pictures/Headshot.jpg
 Recent URLs[$e]=file:$HOME/Pictures/
 
+[KPropertiesDialog]
+Height 1080=456
+Width 1920=418
+
 [MainWindow]
 Height 1080=700
 Height 1440=700
@@ -24,6 +28,10 @@ Width 1920=1024
 Width 2560=1024
 Window-Maximized 1080x1920=true
 Window-Maximized 1440x2560=true
+
+[Open-with settings]
+CompletionMode=1
+History=tild
 
 [PlasmaRunnerManager]
 LaunchCounts=

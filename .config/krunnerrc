@@ -1,5 +1,5 @@
 [General]
-history=settings,battery,power,fire,glob,suspend,ke,kons,theme
+history=kons,fire,settings,battery,power,glob,suspend,ke,theme
 
 [Plugins]
 CharacterRunnerEnabled=false
@@ -28,4 +28,4 @@ servicesEnabled=true
 shellEnabled=true
 unitconverterEnabled=false
 webshortcutsEnabled=false
-windowsEnabled=true
+windowsEnabled=false
