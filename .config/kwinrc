@@ -11,7 +11,12 @@ WindowsBlockCompositing=true
 XRenderSmoothScale=false
 
 [Desktops]
-Number=1
+Name_1=Chrome
+Name_2=Code
+Name_3=Terminal
+Name_4=Dashboard
+Number=4
+Rows=1
 
 [Effect-CoverSwitch]
 TabBox=false
@@ -40,10 +45,24 @@ CommandWindow3=Activate and pass click
 CommandWindowWheel=Scroll
 
 [Plugins]
+cubeEnabled=true
+cubeslideEnabled=true
+desktopchangeosdEnabled=false
+desktopgridEnabled=false
 highlightwindowEnabled=true
+kwin4_effect_fadedesktopEnabled=false
 kwin4_effect_maximizeEnabled=false
+kwin4_effect_morphingpopupsEnabled=false
+kwin4_effect_windowapertureEnabled=false
 minimizeanimationEnabled=false
+presentwindowsEnabled=false
+screenedgeEnabled=false
+slideEnabled=false
 windowgeometryEnabled=false
+
+[Script-desktopchangeosd]
+PopupHideDelay=1000
+TextOnly=false
 
 [TabBox]
 ActivitiesMode=1
@@ -91,6 +110,7 @@ MaximizeButtonMiddleClickCommand=Maximize (vertical only)
 MaximizeButtonRightClickCommand=Maximize (horizontal only)
 NextFocusPrefersMouse=false
 Placement=Smart
+RollOverDesktops=true
 SeparateScreenFocus=false
 ShadeHover=false
 ShadeHoverInterval=250
