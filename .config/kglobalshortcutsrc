@@ -22,7 +22,7 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 {9ce6116f-505a-4502-86ce-b1c3937aa5a4}=Meta+Shift+F5,none,Kill All Except Desktop Environment
 {c1a4f2a7-7f38-4e96-a27d-d51c6ff4e78d}=Meta+W,none,Wifi Menu
 {c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}=Meta+F5,none,Recycle Desktop Environment
@@ -39,7 +39,7 @@ mute=Volume Mute,Volume Mute,Mute
 
 [krunner]
 _k_friendly_name=Run Command
-run command=Ctrl+Space\tAlt+F2\tSearch,Alt+Space,Run Command
+run command=Ctrl+Space\t\tSearch,Alt+Space,Run Command
 run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipboard contents
 
 [ksmserver]
@@ -95,7 +95,7 @@ Switch to Desktop 19=none,none,Switch to Desktop 19
 Switch to Desktop 2=Ctrl+F2,Ctrl+F2,Switch to Desktop 2
 Switch to Desktop 20=none,none,Switch to Desktop 20
 Switch to Desktop 3=Ctrl+F3,Ctrl+F3,Switch to Desktop 3
-Switch to Desktop 4=Ctrl+F4,Ctrl+F4,Switch to Desktop 4
+Switch to Desktop 4=none,Ctrl+F4,Switch to Desktop 4
 Switch to Desktop 5=none,none,Switch to Desktop 5
 Switch to Desktop 6=none,none,Switch to Desktop 6
 Switch to Desktop 7=none,none,Switch to Desktop 7
@@ -196,7 +196,7 @@ Window to Screen 4=none,none,Window to Screen 4
 Window to Screen 5=none,none,Window to Screen 5
 Window to Screen 6=none,none,Window to Screen 6
 Window to Screen 7=none,none,Window to Screen 7
-_k_friendly_name=KWin
+_k_friendly_name=System Settings
 view_actual_size=,Meta+0,Actual Size
 view_zoom_in=Meta+=,Meta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
@@ -219,7 +219,7 @@ Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Key
 _k_friendly_name=Power Management
 
 [plasmashell]
-_k_friendly_name=Plasma
+_k_friendly_name=Activity switching
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
 activate task manager entry 10=Meta+0,Meta+0,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2

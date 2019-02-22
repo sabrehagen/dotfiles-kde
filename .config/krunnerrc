@@ -1,5 +1,5 @@
 [General]
-history=kons,fire,settings,battery,power,glob,suspend,ke,theme
+history=sho,spec,glob,fire,user,kons,settings,battery,power,suspend,ke,theme
 
 [Plugins]
 CharacterRunnerEnabled=false
