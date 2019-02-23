@@ -1,5 +1,5 @@
 [General]
-history=sho,spec,glob,fire,user,kons,settings,battery,power,suspend,ke,theme
+history=window be,sho,spec,glob,fire,user,kons,settings,battery,power,suspend,ke,theme
 
 [Plugins]
 CharacterRunnerEnabled=false
@@ -18,7 +18,7 @@ konsoleprofilesEnabled=false
 krunner_appstreamEnabled=false
 kwinEnabled=false
 locationsEnabled=false
-org.kde.activitiesEnabled=true
+org.kde.activitiesEnabled=false
 org.kde.datetimeEnabled=false
 org.kde.windowedwidgetsEnabled=false
 placesEnabled=false

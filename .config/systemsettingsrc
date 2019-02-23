@@ -4,6 +4,7 @@ Indexing-Enabled=false
 [DownloadDialog Settings]
 Height 1440=510
 Width 2560=700
+Window-Maximized 1080x1920=true
 Window-Maximized 1440x2560=true
 
 [General]
