@@ -1,5 +1,5 @@
 [General]
-history=window be,sho,spec,glob,fire,user,kons,settings,battery,power,suspend,ke,theme
+history=global,theme,fire,window be,sho,spec,glob,user,kons,settings,battery,power,suspend,ke
 
 [Plugins]
 CharacterRunnerEnabled=false
