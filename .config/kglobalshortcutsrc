@@ -1,6 +1,7 @@
 [ActivityManager]
 _k_friendly_name=Activity Manager
 switch-to-activity-1e488a43-d057-451b-9ecd-a0f7f4ff75bb=none,none,Switch to activity "Default"
+switch-to-activity-e291ce3e-7770-413b-ba0c-20417838dbd5=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
 Switch to Next Keyboard Layout=none,none,Switch to Next Keyboard Layout
@@ -22,7 +23,7 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 {9ce6116f-505a-4502-86ce-b1c3937aa5a4}=Meta+Shift+F5,none,Kill All Except Desktop Environment
 {c1a4f2a7-7f38-4e96-a27d-d51c6ff4e78d}=Meta+W,none,Wifi Menu
 {c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}=Meta+F5,none,Recycle Desktop Environment
@@ -63,10 +64,10 @@ Invert Screen Colors=none,none,Invert Screen Colors
 Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Kill Window
 MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Center
 MoveMouseToFocus=,Meta+F5,Move Mouse to Focus
-MoveZoomDown=none,Meta+Ctrl+Down,Move Down
-MoveZoomLeft=none,Meta+Ctrl+Left,Move Left
-MoveZoomRight=none,Meta+Ctrl+Right,Move Right
-MoveZoomUp=none,Meta+Ctrl+Up,Move Up
+MoveZoomDown=none,none,Move Zoomed Area Downwards
+MoveZoomLeft=none,none,Move Zoomed Area to Left
+MoveZoomRight=none,none,Move Zoomed Area to Right
+MoveZoomUp=none,none,Move Zoomed Area Upwards
 Remove Window From Group=none,none,Remove Window From Group
 Setup Window Shortcut=none,none,Setup Window Shortcut
 Show Desktop=none,none,Show Desktop
@@ -219,7 +220,7 @@ Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Key
 _k_friendly_name=Power Management
 
 [plasmashell]
-_k_friendly_name=Activity switching
+_k_friendly_name=Plasma
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
 activate task manager entry 10=Meta+0,Meta+0,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2
@@ -230,6 +231,7 @@ activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
+activate widget 3=Alt+F1,none,Activate Application Launcher Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=none,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item
