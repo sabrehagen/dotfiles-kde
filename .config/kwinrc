@@ -28,6 +28,7 @@ ZPosition=36
 
 [Effect-CubeSlide]
 DontSlidePanels=false
+RotationDuration=340
 
 [Effect-FlipSwitch]
 TabBox=false
