@@ -14,8 +14,8 @@ XRenderSmoothScale=false
 Name_1=Terminal
 Name_2=Code
 Name_3=Chrome
-Name_4=Dashboard
-Number=3
+Name_4=Communication
+Number=4
 Rows=1
 
 [Effect-CoverSwitch]
