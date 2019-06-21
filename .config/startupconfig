@@ -2,7 +2,7 @@
 # kcminputrc Mouse cursorTheme 'breeze_cursors'
 kcminputrc_mouse_cursortheme=breeze_cursors
 # kcminputrc Mouse cursorSize ''
-kcminputrc_mouse_cursorsize=''
+kcminputrc_mouse_cursorsize=24
 # ksplashrc KSplash Theme Breeze
 ksplashrc_ksplash_theme=org.kde.breezedark.desktop
 # ksplashrc KSplash Engine KSplashQML

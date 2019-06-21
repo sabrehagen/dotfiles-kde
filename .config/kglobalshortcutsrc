@@ -5,8 +5,8 @@ switch-to-activity-5663e72d-33b0-4754-a18b-c40ac964209e=none,none,Switch to acti
 switch-to-activity-e291ce3e-7770-413b-ba0c-20417838dbd5=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
-Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
-_k_friendly_name=System Settings Module
+Switch to Next Keyboard Layout=none,none,Switch to Next Keyboard Layout
+_k_friendly_name=KDE Daemon
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
@@ -24,11 +24,11 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 {9ce6116f-505a-4502-86ce-b1c3937aa5a4}=Meta+Shift+F5,none,Kill All Except Desktop Environment
-{c1a4f2a7-7f38-4e96-a27d-d51c6ff4e78d}=Meta+W,none,Wifi Menu
+{c1a4f2a7-7f38-4e96-a27d-d51c6ff4e78d}=none,none,Wifi Menu
 {c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}=Meta+F5,none,Recycle Desktop Environment
-{da90a76d-72e1-4a3d-a392-b61b72e927a9}=\t,none,Alacritty
+{da90a76d-72e1-4a3d-a392-b61b72e927a9}=Meta+Return,none,Alacritty
 {e3ea7ac6-0bec-4da5-b380-2f48bd45a4df}=Ctrl+Alt+T,none,Launch Konsole
 
 [kmix]
@@ -244,7 +244,7 @@ manage activities=Meta+Q,Meta+Q,Activities...
 next activity=Meta+Tab,none,Walk through activities
 previous activity=Meta+Shift+Tab,none,Walk through activities (Reverse)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
-show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
+show dashboard=Meta+D,Ctrl+F12,Show Desktop
 show-barcode=none,none,Show Barcode...
 show-on-mouse-pos=none,none,Open Klipper at Mouse Position
 stop current activity=Meta+S,Meta+S,Stop Current Activity
