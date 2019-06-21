@@ -5,4 +5,5 @@ RepeatDelay=165
 RepeatRate=50
 
 [Mouse]
+cursorSize=24
 cursorTheme=breeze_cursors
