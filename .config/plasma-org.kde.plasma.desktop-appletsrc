@@ -15,6 +15,13 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][2][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][2][Wallpaper][org.kde.image][General]
+Image=file:///home/jackson/.local/share/wallpapers/168849-forest clearing.jpeg
+
 [Containments][3]
 activityId=5663e72d-33b0-4754-a18b-c40ac964209e
 formfactor=0
@@ -23,6 +30,13 @@ lastScreen=1
 location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
+
+[Containments][3][ConfigDialog]
+DialogHeight=743
+DialogWidth=1163
+
+[Containments][3][Wallpaper][org.kde.image][General]
+Image=file:///home/jackson/.local/share/wallpapers/168849-forest clearing.jpeg
 
 [Containments][4]
 activityId=

@@ -1,5 +1,5 @@
 [General]
-history=term,chrom,settings,desktop env,mouse,KEYB,theme,desk,pulse,kwi,global,swit,fire,window be,sho,spec,glob,user,kons,battery,power,suspend,ke
+history=desktop env,touchp,tou,theme,backg,ala,term,chrom,settings,mouse,KEYB,desk,pulse,kwi,global,swit,fire,window be,sho,spec,glob,user,kons,battery,power,suspend,ke
 
 [Plugins]
 CharacterRunnerEnabled=false

@@ -12,14 +12,8 @@ XRenderSmoothScale=false
 
 [Desktops]
 Id_1=d3c6d400-b396-4bf9-962f-6d1800ed19d6
-Id_2=8577e316-f7f6-4bad-aa9c-2a455312c6b4
-Id_3=125c3cd1-ebd6-4513-9a54-7fa18bf20bad
-Id_4=23a3e3ae-4696-42e9-9ba6-76f84da9650e
 Name_1=Terminal
-Name_2=Code
-Name_3=Chrome
-Name_4=Communication
-Number=4
+Number=1
 Rows=1
 
 [Effect-CoverSwitch]
