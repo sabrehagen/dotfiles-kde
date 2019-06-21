@@ -1,4 +1,16 @@
 [1]
+Description=Application settings for kcmshell5
+clientmachine=localhost
+clientmachinematch=0
+maximizehoriz=true
+maximizehorizrule=2
+maximizevert=true
+maximizevertrule=2
+wmclass=kcmshell5
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
 Description=Application settings for slack
 clientmachine=sabrehagen-desktop-environment-jackson
 clientmachinematch=0
@@ -8,7 +20,7 @@ wmclass=slack
 wmclasscomplete=false
 wmclassmatch=1
 
-[2]
+[3]
 Description=Window settings for slack
 clientmachine=sabrehagen-desktop-environment-jackson
 clientmachinematch=0
@@ -27,7 +39,7 @@ wmclassmatch=1
 XftAntialias[$d]
 XftHintStyle[$d]
 XftSubPixel[$d]
-count=2
+count=3
 
 [KDE]
 LookAndFeelPackage[$d]
