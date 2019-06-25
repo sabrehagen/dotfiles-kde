@@ -1,4 +1,38 @@
 [1]
+Description=Application settings for code
+clientmachine=sabrehagen-desktop-environment-jackson
+clientmachinematch=0
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=code
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=Application settings for konsole
+clientmachine=localhost
+clientmachinematch=0
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1
+
+[3]
+Description=Application settings for kate
+clientmachine=localhost
+clientmachinematch=0
+noborder=true
+noborderrule=2
+wmclass=kate
+wmclasscomplete=false
+wmclassmatch=1
+
+[4]
 Description=Application settings for kcmshell5
 clientmachine=localhost
 clientmachinematch=0
@@ -10,36 +44,11 @@ wmclass=kcmshell5
 wmclasscomplete=false
 wmclassmatch=1
 
-[2]
-Description=Application settings for slack
-clientmachine=sabrehagen-desktop-environment-jackson
-clientmachinematch=0
-noborder=true
-noborderrule=2
-wmclass=slack
-wmclasscomplete=false
-wmclassmatch=1
-
-[3]
-Description=Window settings for slack
-clientmachine=sabrehagen-desktop-environment-jackson
-clientmachinematch=0
-noborder=true
-noborderrule=2
-title=Slack - Lendi Pty Ltd
-titlematch=0
-types=1
-windowrole=browser-window
-windowrolematch=1
-wmclass=slack
-wmclasscomplete=false
-wmclassmatch=1
-
 [General]
 XftAntialias[$d]
 XftHintStyle[$d]
 XftSubPixel[$d]
-count=3
+count=4
 
 [KDE]
 LookAndFeelPackage[$d]

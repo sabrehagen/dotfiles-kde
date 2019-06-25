@@ -1,5 +1,8 @@
 [General]
-history=kons,keyb,ala,term,print,dolp,settings,theme,mouse,user,dol,parti,global,shor,touchp,desktop env,tou,backg,chrom,KEYB,desk,pulse,kwi,swit,fire,window be,sho,spec,glob,battery,power,suspend,ke
+history=kons,logo,screens,keyb,ala,term,print,dolp,settings,theme,mouse,user,dol,parti,global,shor,touchp,desktop env,tou,backg,chrom,KEYB,desk,pulse,kwi,swit,fire,window be,sho,spec,glob,battery,power,suspend,ke
+
+[PlasmaRunnerManager]
+LaunchCounts=5 services_org.kde.konsole.desktop,1 services_keys.desktop,2 services_org.kde.spectacle.desktop,1 services_kcmsmserver.desktop,1 services_alacritty.desktop
 
 [Plugins]
 CharacterRunnerEnabled=false
