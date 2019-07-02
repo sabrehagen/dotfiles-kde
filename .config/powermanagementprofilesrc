@@ -10,7 +10,7 @@ idleTime=300000
 [AC][HandleButtonEvents]
 lidAction=1
 powerButtonAction=16
-triggerLidActionWhenExternalMonitorPresent=false
+triggerLidActionWhenExternalMonitorPresent=true
 
 [Battery]
 icon=battery-060
