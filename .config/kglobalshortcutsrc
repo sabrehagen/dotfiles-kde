@@ -30,6 +30,7 @@ _k_friendly_name=KDE Daemon
 {c1a4f2a7-7f38-4e96-a27d-d51c6ff4e78d}=none,none,Wifi Menu
 {c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}=Meta+F5,none,Recycle Desktop Environment
 {da90a76d-72e1-4a3d-a392-b61b72e927a9}=Meta+Return,none,Alacritty
+{e157eefc-0212-460f-b9e6-de5e47f98e6b}=Meta+Shift+Return,none,Konsole
 {e3ea7ac6-0bec-4da5-b380-2f48bd45a4df}=Ctrl+Alt+T,none,Launch Konsole
 
 [kmix]
