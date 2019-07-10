@@ -1,5 +1,5 @@
 [Data]
-DataCount=6
+DataCount=2
 
 [Data_1]
 Comment=KMenuEdit Global Shortcuts
@@ -40,16 +40,16 @@ Type=SHORTCUT
 Uuid={e3ea7ac6-0bec-4da5-b380-2f48bd45a4df}
 
 [Data_2]
-Comment=Open Alacritty with Mod + Enter.
+Comment=Comment
 Enabled=true
-Name=Alacritty
+Name=Konsole
 Type=SIMPLE_ACTION_DATA
 
 [Data_2Actions]
 ActionsCount=1
 
 [Data_2Actions0]
-CommandURL=sh /home/jackson/repositories/sabrehagen/desktop-environment/docker/scripts/exec.sh alacritty
+CommandURL=konsole
 Type=COMMAND_URL
 
 [Data_2Conditions]
@@ -61,113 +61,9 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_2Triggers0]
-Key=Meta+Return
-Type=SHORTCUT
-Uuid={da90a76d-72e1-4a3d-a392-b61b72e927a9}
-
-[Data_3]
-Comment=Recycle desktop environment with Mod + F5.
-Enabled=true
-Name=Recycle Desktop Environment
-Type=SIMPLE_ACTION_DATA
-
-[Data_3Actions]
-ActionsCount=1
-
-[Data_3Actions0]
-CommandURL=zsh -c /home/jackson/repositories/sabrehagen/desktop-environment/docker/scripts/recycle.sh
-Type=COMMAND_URL
-
-[Data_3Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_3Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_3Triggers0]
-Key=Meta+F5
-Type=SHORTCUT
-Uuid={c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}
-
-[Data_4]
-Comment=Kill all except desktop environment with Mod + Shift + F5.
-Enabled=true
-Name=Kill All Except Desktop Environment
-Type=SIMPLE_ACTION_DATA
-
-[Data_4Actions]
-ActionsCount=1
-
-[Data_4Actions0]
-CommandURL=sh /home/jackson/repositories/sabrehagen/desktop-environment/scripts/kill-all.sh
-Type=COMMAND_URL
-
-[Data_4Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_4Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_4Triggers0]
-Key=Meta+Shift+F5
-Type=SHORTCUT
-Uuid={9ce6116f-505a-4502-86ce-b1c3937aa5a4}
-
-[Data_5]
-Comment=Comment
-Enabled=true
-Name=Konsole
-Type=SIMPLE_ACTION_DATA
-
-[Data_5Actions]
-ActionsCount=1
-
-[Data_5Actions0]
-CommandURL=konsole
-Type=COMMAND_URL
-
-[Data_5Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_5Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_5Triggers0]
 Key=Meta+Shift+Return
 Type=SHORTCUT
 Uuid={e157eefc-0212-460f-b9e6-de5e47f98e6b}
-
-[Data_6]
-Comment=Comment
-Enabled=true
-Name=Google Chrome
-Type=SIMPLE_ACTION_DATA
-
-[Data_6Actions]
-ActionsCount=1
-
-[Data_6Actions0]
-CommandURL=zsh -c /home/jackson/repositories/sabrehagen/desktop-environment/docker/scripts/exec.sh google-chrome
-Type=COMMAND_URL
-
-[Data_6Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_6Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_6Triggers0]
-Key=Meta+C
-Type=SHORTCUT
-Uuid={1e13e9ed-716b-4634-aab5-56e96c8a1c75}
 
 [General]
 XftAntialias[$d]
