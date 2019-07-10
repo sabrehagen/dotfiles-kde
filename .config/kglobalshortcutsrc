@@ -25,9 +25,8 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
-{56bbd319-6b10-4c20-ae71-4d9f83326325}=,none,Alacritty
+{1e13e9ed-716b-4634-aab5-56e96c8a1c75}=Meta+C,none,Google Chrome
 {9ce6116f-505a-4502-86ce-b1c3937aa5a4}=Meta+Shift+F5,none,Kill All Except Desktop Environment
-{c1a4f2a7-7f38-4e96-a27d-d51c6ff4e78d}=none,none,Wifi Menu
 {c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}=Meta+F5,none,Recycle Desktop Environment
 {da90a76d-72e1-4a3d-a392-b61b72e927a9}=Meta+Return,none,Alacritty
 {e157eefc-0212-460f-b9e6-de5e47f98e6b}=Meta+Shift+Return,none,Konsole
