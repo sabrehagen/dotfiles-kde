@@ -21,10 +21,11 @@ _k_friendly_name=KDE Daemon
 [kded5]
 Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
 _k_friendly_name=KDE Daemon
-display=Display\tMeta+P,Display\tMeta+P,Switch Display
+display=Display\t,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
+{0e31fbfe-bceb-47c1-8a36-688cd9b8d1f1}=Meta+P,none,Password
 {1e13e9ed-716b-4634-aab5-56e96c8a1c75}=Meta+C,none,Google Chrome
 {9ce6116f-505a-4502-86ce-b1c3937aa5a4}=Meta+Shift+F5,none,Kill All Except Desktop Environment
 {c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}=Meta+F5,none,Recycle Desktop Environment
