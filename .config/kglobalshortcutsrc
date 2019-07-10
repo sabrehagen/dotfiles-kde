@@ -26,12 +26,9 @@ display=Display\t,Display\tMeta+P,Switch Display
 [khotkeys]
 _k_friendly_name=KDE Daemon
 {0e31fbfe-bceb-47c1-8a36-688cd9b8d1f1}=Meta+P,none,Password
-{1e13e9ed-716b-4634-aab5-56e96c8a1c75}=Meta+C,none,Google Chrome
-{9ce6116f-505a-4502-86ce-b1c3937aa5a4}=Meta+Shift+F5,none,Kill All Except Desktop Environment
-{c4a89484-fb6f-4a93-b8cd-2f25d55ac53f}=Meta+F5,none,Recycle Desktop Environment
-{da90a76d-72e1-4a3d-a392-b61b72e927a9}=Meta+Return,none,Alacritty
 {e157eefc-0212-460f-b9e6-de5e47f98e6b}=Meta+Shift+Return,none,Konsole
 {e3ea7ac6-0bec-4da5-b380-2f48bd45a4df}=Ctrl+Alt+T,none,Launch Konsole
+{e5b6c60d-fea9-45d9-abe9-c42cc3e31e52}=Meta+F5,none,Recycle Desktop Environment
 
 [kmix]
 _k_friendly_name=Audio Volume

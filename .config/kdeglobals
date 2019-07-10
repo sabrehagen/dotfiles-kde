@@ -113,7 +113,7 @@ Name=Breeze Dark
 XftAntialias=true
 XftHintStyle=
 XftSubPixel=none
-dbfile=/jackson/home/.mozilla/firefox/ydib2rfr.default/places.sqlite
+dbfile=/home/jackson/.mozilla/firefox/a7ut6xel.default/places.sqlite
 shadeSortColumn=true
 widgetStyle=Breeze
 
