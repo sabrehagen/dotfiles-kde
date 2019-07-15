@@ -27,6 +27,7 @@ display=Display\t,Display\tMeta+P,Switch Display
 _k_friendly_name=KDE Daemon
 {00d81a43-b02b-4cde-96ce-fa422f4981bc}=Meta+F12,none,Reboot
 {0e31fbfe-bceb-47c1-8a36-688cd9b8d1f1}=Meta+P,none,Password
+{2bcfa55c-593c-4733-885c-2cc2966544fc}=Meta+Alt+F5,none,Recycle Dotfiles
 {e157eefc-0212-460f-b9e6-de5e47f98e6b}=Meta+Shift+Return,none,Konsole
 {e3ea7ac6-0bec-4da5-b380-2f48bd45a4df}=Ctrl+Alt+T,none,Launch Konsole
 {e5b6c60d-fea9-45d9-abe9-c42cc3e31e52}=Meta+F5,none,Recycle Desktop Environment
