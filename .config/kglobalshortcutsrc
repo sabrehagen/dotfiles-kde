@@ -25,6 +25,7 @@ display=Display\t,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
+{00d81a43-b02b-4cde-96ce-fa422f4981bc}=Meta+F12,none,Reboot
 {0e31fbfe-bceb-47c1-8a36-688cd9b8d1f1}=Meta+P,none,Password
 {e157eefc-0212-460f-b9e6-de5e47f98e6b}=Meta+Shift+Return,none,Konsole
 {e3ea7ac6-0bec-4da5-b380-2f48bd45a4df}=Ctrl+Alt+T,none,Launch Konsole
