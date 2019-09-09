@@ -1,6 +1,6 @@
 #! /bin/sh
 # kcminputrc Mouse cursorTheme 'breeze_cursors'
-kcminputrc_mouse_cursortheme=breeze_cursors
+kcminputrc_mouse_cursortheme=cursors
 # kcminputrc Mouse cursorSize ''
 kcminputrc_mouse_cursorsize=24
 # ksplashrc KSplash Theme Breeze

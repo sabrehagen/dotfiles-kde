@@ -6,3 +6,6 @@ Autolock=false
 
 [Greeter]
 Theme=org.kde.breezedark.desktop
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/jackson/.local/share/wallpapers/168849-forest clearing.jpeg
