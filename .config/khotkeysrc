@@ -165,7 +165,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_6Triggers0]
-Key=Meta+F12
+Key=Ctrl+Alt+Del
 Type=SHORTCUT
 Uuid={00d81a43-b02b-4cde-96ce-fa422f4981bc}
 

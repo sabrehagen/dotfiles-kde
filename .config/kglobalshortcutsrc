@@ -5,7 +5,7 @@ switch-to-activity-5663e72d-33b0-4754-a18b-c40ac964209e=none,none,Switch to acti
 switch-to-activity-e291ce3e-7770-413b-ba0c-20417838dbd5=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
-Switch to Next Keyboard Layout=none,none,Switch to Next Keyboard Layout
+Switch to Next Keyboard Layout=none,Ctrl+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=KDE Daemon
 
 [kaccess]
@@ -24,8 +24,8 @@ _k_friendly_name=KDE Daemon
 display=Display\t,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=System Settings Module
-{00d81a43-b02b-4cde-96ce-fa422f4981bc}=Meta+F12,none,Reboot
+_k_friendly_name=KDE Daemon
+{00d81a43-b02b-4cde-96ce-fa422f4981bc}=Ctrl+Alt+Del,none,Reboot
 {0e31fbfe-bceb-47c1-8a36-688cd9b8d1f1}=Meta+P,none,Password
 {2bcfa55c-593c-4733-885c-2cc2966544fc}=Meta+Alt+F5,none,Recycle Dotfiles
 {e157eefc-0212-460f-b9e6-de5e47f98e6b}=Meta+Shift+Return,none,Konsole
@@ -48,8 +48,8 @@ run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipb
 
 [ksmserver]
 Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Halt Without Confirmation
-Lock Session=Meta+L,Meta+L\tCtrl+Alt+L\tScreensaver,Lock Session
-Log Out=Ctrl+Alt+Del,none,Log Out
+Lock Session=,Meta+L\tCtrl+Alt+L\tScreensaver,Lock Session
+Log Out=,none,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
 _k_friendly_name=ksmserver
@@ -139,7 +139,7 @@ Window Fullscreen=none,none,Make Window Fullscreen
 Window Grow Horizontal=none,none,Pack Grow Window Horizontally
 Window Grow Vertical=none,none,Pack Grow Window Vertically
 Window Lower=none,none,Lower Window
-Window Maximize=Meta+Shift+Up,Meta+PgUp,Maximize Window
+Window Maximize=Meta+Shift+Up\tMeta+Shift+K,Meta+PgUp,Maximize Window
 Window Maximize Horizontal=none,none,Maximize Window Horizontally
 Window Maximize Vertical=none,none,Maximize Window Vertically
 Window Minimize=Meta+PgDown,Meta+PgDown,Minimize Window
@@ -155,12 +155,12 @@ Window Pack Down=none,none,Pack Window Down
 Window Pack Left=none,none,Pack Window to the Left
 Window Pack Right=none,none,Pack Window to the Right
 Window Pack Up=none,none,Pack Window Up
-Window Quick Tile Bottom=Meta+Down,Meta+Down,Quick Tile Window to the Bottom
+Window Quick Tile Bottom=Meta+Down\tMeta+J,Meta+Down,Quick Tile Window to the Bottom
 Window Quick Tile Bottom Left=none,none,Quick Tile Window to the Bottom Left
 Window Quick Tile Bottom Right=none,none,Quick Tile Window to the Bottom Right
-Window Quick Tile Left=Meta+Left,Meta+Left,Quick Tile Window to the Left
-Window Quick Tile Right=Meta+Right,Meta+Right,Quick Tile Window to the Right
-Window Quick Tile Top=Meta+Up,Meta+Up,Quick Tile Window to the Top
+Window Quick Tile Left=Meta+Left\tMeta+H,Meta+Left,Quick Tile Window to the Left
+Window Quick Tile Right=Meta+Right\tMeta+L,Meta+Right,Quick Tile Window to the Right
+Window Quick Tile Top=Meta+Up\tMeta+K,Meta+Up,Quick Tile Window to the Top
 Window Quick Tile Top Left=none,none,Quick Tile Window to the Top Left
 Window Quick Tile Top Right=none,none,Quick Tile Window to the Top Right
 Window Raise=none,none,Raise Window
@@ -189,7 +189,7 @@ Window to Desktop 7=none,none,Window to Desktop 7
 Window to Desktop 8=none,none,Window to Desktop 8
 Window to Desktop 9=none,none,Window to Desktop 9
 Window to Next Desktop=none,none,Window to Next Desktop
-Window to Next Screen=Meta+Shift+Right\tMeta+Shift+Left,none,Window to Next Screen
+Window to Next Screen=Meta+Shift+H\tMeta+Shift+L,none,Window to Next Screen
 Window to Previous Desktop=none,none,Window to Previous Desktop
 Window to Previous Screen=none,none,Window to Previous Screen
 Window to Screen 0=none,none,Window to Screen 0
