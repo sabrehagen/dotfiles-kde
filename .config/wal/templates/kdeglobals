@@ -1,10 +1,44 @@
+[ColorEffects:Disabled]
+Color={color0.rgb}
+ColorAmount=0.3
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=0
+IntensityAmount=-1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color={color0.rgb}
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
 [Colors:Button]
+BackgroundAlternate={color1.rgb}
+BackgroundNormal={color8.rgb}
+DecorationFocus={color1.rgb}
+DecorationHover={color1.rgb}
+ForegroundActive={color6.rgb}
+ForegroundInactive={color7.rgb}
+ForegroundLink={color4.rgb}
+ForegroundNegative={color1.rgb}
+ForegroundNeutral={color3.rgb}
+ForegroundNormal={color15.rgb}
+ForegroundPositive={color2.rgb}
+ForegroundVisited={color5.rgb}
+
+[Colors:Complementary]
 BackgroundAlternate={color8.rgb}
 BackgroundNormal={color0.rgb}
 DecorationFocus={color1.rgb}
 DecorationHover={color1.rgb}
 ForegroundActive={color6.rgb}
-ForegroundInactive={color2.rgb}
+ForegroundInactive={color7.rgb}
 ForegroundLink={color4.rgb}
 ForegroundNegative={color1.rgb}
 ForegroundNeutral={color3.rgb}
@@ -18,7 +52,7 @@ BackgroundNormal={color8.rgb}
 DecorationFocus={color1.rgb}
 DecorationHover={color1.rgb}
 ForegroundActive={color6.rgb}
-ForegroundInactive={color2.rgb}
+ForegroundInactive={color7.rgb}
 ForegroundLink={color4.rgb}
 ForegroundNegative={color1.rgb}
 ForegroundNeutral={color3.rgb}
@@ -32,7 +66,7 @@ BackgroundNormal={color0.rgb}
 DecorationFocus={color1.rgb}
 DecorationHover={color1.rgb}
 ForegroundActive={color6.rgb}
-ForegroundInactive={color2.rgb}
+ForegroundInactive={color7.rgb}
 ForegroundLink={color4.rgb}
 ForegroundNegative={color1.rgb}
 ForegroundNeutral={color3.rgb}
@@ -41,16 +75,16 @@ ForegroundPositive={color2.rgb}
 ForegroundVisited={color5.rgb}
 
 [Colors:Selection]
-BackgroundAlternate={color8.rgb}
+BackgroundAlternate={color1.rgb}
 BackgroundNormal={color1.rgb}
 DecorationFocus={color1.rgb}
 DecorationHover={color1.rgb}
-ForegroundActive={color15.rgb}
-ForegroundInactive={color2.rgb}
+ForegroundActive={color6.rgb}
+ForegroundInactive={color0.rgb}
 ForegroundLink={color4.rgb}
 ForegroundNegative={color1.rgb}
 ForegroundNeutral={color3.rgb}
-ForegroundNormal={color15.rgb}
+ForegroundNormal={color0.rgb}
 ForegroundPositive={color2.rgb}
 ForegroundVisited={color5.rgb}
 
@@ -60,7 +94,7 @@ BackgroundNormal={color8.rgb}
 DecorationFocus={color1.rgb}
 DecorationHover={color1.rgb}
 ForegroundActive={color6.rgb}
-ForegroundInactive={color2.rgb}
+ForegroundInactive={color7.rgb}
 ForegroundLink={color4.rgb}
 ForegroundNegative={color1.rgb}
 ForegroundNeutral={color3.rgb}
@@ -74,7 +108,7 @@ BackgroundNormal={color0.rgb}
 DecorationFocus={color1.rgb}
 DecorationHover={color1.rgb}
 ForegroundActive={color6.rgb}
-ForegroundInactive={color2.rgb}
+ForegroundInactive={color7.rgb}
 ForegroundLink={color4.rgb}
 ForegroundNegative={color1.rgb}
 ForegroundNeutral={color3.rgb}
@@ -88,7 +122,7 @@ BackgroundNormal={color0.rgb}
 DecorationFocus={color1.rgb}
 DecorationHover={color1.rgb}
 ForegroundActive={color6.rgb}
-ForegroundInactive={color2.rgb}
+ForegroundInactive={color7.rgb}
 ForegroundLink={color4.rgb}
 ForegroundNegative={color1.rgb}
 ForegroundNeutral={color3.rgb}
@@ -98,14 +132,17 @@ ForegroundVisited={color5.rgb}
 
 [General]
 ColorScheme=wal
+Name=wal
+accentActiveTitlebar=false
+shadeSortColumn=true
 
 [KDE]
 contrast=4
 
 [WM]
-activeBackground={color0.rgb}
+activeBackground={color8.rgb}
 activeBlend={color15.rgb}
 activeForeground={color15.rgb}
-inactiveBackground={color8.rgb}
-inactiveBlend={color2.rgb}
-inactiveForeground={color2.rgb}
+inactiveBackground={color0.rgb}
+inactiveBlend={color7.rgb}
+inactiveForeground={color7.rgb}
